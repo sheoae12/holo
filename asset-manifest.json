@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/github.io/holo/static/css/main.3317faa9.css",
+    "main.js": "/github.io/holo/static/js/main.d4b3216d.js",
+    "static/media/aSmile_L.ttf": "/github.io/holo/static/media/aSmile_L.9924c67c9cc4c1640925.ttf",
+    "static/media/aSmile.ttf": "/github.io/holo/static/media/aSmile.95ab12706269f5d6dc12.ttf",
+    "static/media/noResults.png": "/github.io/holo/static/media/noResults.ef26c572abdec235fffd.png",
+    "static/media/logo.png": "/github.io/holo/static/media/logo.5b6c7afc53ac500d1e15.png",
+    "index.html": "/github.io/holo/index.html",
+    "main.3317faa9.css.map": "/github.io/holo/static/css/main.3317faa9.css.map",
+    "main.d4b3216d.js.map": "/github.io/holo/static/js/main.d4b3216d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3317faa9.css",
+    "static/js/main.d4b3216d.js"
+  ]
+}
